@@ -1,0 +1,3 @@
+git remote set-url origin https://git@github.com/quchai18/percubaan.git
+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
+https://github.com/quchai18/percubaan.git
